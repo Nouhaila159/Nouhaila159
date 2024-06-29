@@ -3,6 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nouhaila159" alt="nouhaila159" /></a> </p>
 
+- 🌱 I’m currently learning **ML** & **AI** tools
+
+- 👯 I’m looking to collaborate on **freelance projects**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yosra-moumtaz-389238223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosra moumtaz" height="30" width="40" /></a>
+<a href="https://instagram.com/yosra_mtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosra_mtz" height="30" width="40" /></a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nouhaila-danouni-2a3034223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouhaila danouni" height="30" width="40" /></a>
